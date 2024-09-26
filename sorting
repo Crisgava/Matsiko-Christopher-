@@ -12,5 +12,5 @@ public class Sorting in descending order{
 
         // Print the sorted array 
         System.out.println("Sorted array in descending order: " + Arrays.toString(numbers)); 
-    } 
+    }
 }
